@@ -37,7 +37,7 @@ Los notebooks pueden ejecutarse directamente en el navegador, asegurando reprodu
 Herramientas:
 Google Colab (entorno de ejecución)
 Python
-Librerias: NumPy, Pandas, Matplotlib / Seaborn (visualización), scikit-learn (PCA, clasificación y modelos predictivos)
+Librerias principales: NumPy, Pandas, Matplotlib / Seaborn (visualización), scikit-learn (PCA, clasificación y modelos predictivos)
 
 
 ## Estado del proyecto

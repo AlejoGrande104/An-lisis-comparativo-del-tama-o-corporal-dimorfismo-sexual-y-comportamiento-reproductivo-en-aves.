@@ -39,9 +39,6 @@ Google Colab (entorno de ejecución)
 Python
 Librerias: NumPy, Pandas, Matplotlib / Seaborn (visualización), scikit-learn (PCA, clasificación y modelos predictivos)
 
-Sección de preguntas frecuentes con todas las preguntas planteadas hasta la fecha.
-Información sobre derechos de autor y licencias.
-
 
 ## Estado del proyecto
 

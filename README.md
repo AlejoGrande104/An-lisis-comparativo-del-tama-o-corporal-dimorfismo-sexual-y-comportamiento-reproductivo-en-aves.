@@ -42,12 +42,6 @@ Librerias: NumPy, Pandas, Matplotlib / Seaborn (visualización), scikit-learn (P
 Sección de preguntas frecuentes con todas las preguntas planteadas hasta la fecha.
 Información sobre derechos de autor y licencias.
 
-## Referencias
-
-Lislevand, T., Figuerola, J., & Székely, T. (2007).
-*Avian body sizes in relation to fecundity, mating system, display behavior,
-and resource sharing*. Ecology, 88, 1605.
-
 
 ## Estado del proyecto
 
@@ -58,3 +52,10 @@ Desbalance en clasificadores (Objetivos 4 y 5): aplicación de técnicas de bala
 Dilución del dimorfismo en análisis PCA (Objetivo 1): realización de análisis de componentes principales adicionales sobre subconjuntos específicos de rasgos morfológicos (por ejemplo, masa y tarso para dimorfismo inverso; ala y cola para ornamentación), con el fin de resaltar patrones biológicamente relevantes que pueden quedar atenuados en el PCA global.
 
 Modelos alternativos para tamaño vs fecundidad (Objetivo 2): evaluación de modelos basados en Random Forest para análisis de regresión, como complemento a los enfoques lineales actuales.
+
+## Referencias
+
+Lislevand, T., Figuerola, J., & Székely, T. (2007).
+*Avian body sizes in relation to fecundity, mating system, display behavior,
+and resource sharing*. Ecology, 88, 1605.
+
